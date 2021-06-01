@@ -5,3 +5,5 @@ const App = () => {
         App
     </div>
 }
+
+export default App;
